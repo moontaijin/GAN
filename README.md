@@ -9,4 +9,4 @@ https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/gen
 * Google Colab
 
 ### Dataset
-name: torchvision.datasets.MNIST
+* torchvision.datasets.MNIST
